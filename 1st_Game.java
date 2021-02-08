@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class 1st_Game {
+public class First_Game {
     public static void main(String[] args) {
 
         while (true) {
