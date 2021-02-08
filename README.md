@@ -1,4 +1,4 @@
-# 1st-Game
+# First-Game
 A Simple Game of Rock(Stone) , Paper and Scissor.
 
 Just Enter your option from --> Rock , Paper or Scissor(Be careful to type exactly like this !!)
