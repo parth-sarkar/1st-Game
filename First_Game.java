@@ -18,7 +18,7 @@ public class First_Game {
                 System.out.println("Invalid Input ! Please Try Again");
             } else {
                 // Generating Random move from computer-->(0,1,2)
-                int rand = (int) Math.random() * 3;
+                int rand = (int) (Math.random() * 3);
                 String OpponentMove = "";
                 if (rand == 0) {
                     OpponentMove = "Rock";
